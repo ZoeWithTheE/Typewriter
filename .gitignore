@@ -143,3 +143,8 @@ docker/nats
 .env
 
 **.task/**
+
+# Terraform state files
+*.tfstate
+*.tfstate.backup
+*.tfstate.*.backup
